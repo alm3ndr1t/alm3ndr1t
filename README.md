@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Almendrit
-- 👀 I’m interested in everything about coding
-- 🌱 I’m currently learning C#, HTML/CSS, MySQL and JavaScript
-- 📫 How to reach me,, almendrit03@icloud.com
+👋 Greetings, I'm Almendrit.
+👀 I possess a strong interest in the world of software development.
+🌱 I'm actively expanding my expertise in C#, MySQL, JavaScript, TypeScript, React, HTML/CSS and Git.
+📫 To get in touch with me, please feel free to reach out at almendrit03@icloud.com.
