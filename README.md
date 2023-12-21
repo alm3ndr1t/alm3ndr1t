@@ -1,4 +1,7 @@
-👋 Greetings, I'm Almendrit.
-👀 I possess a strong interest in the world of software development.
-🌱 I'm actively expanding my expertise in C#, MySQL, JavaScript, TypeScript, React, HTML/CSS and Git.
-📫 To get in touch with me, please feel free to reach out at almendrit03@icloud.com.
+👋 Hello, I'm Almendrit.
+
+🚀 I'm deeply passionate about software development.
+
+🌱 Actively honing my skills in C#, MySQL, JavaScript, TypeScript, React, HTML/CSS, and Git.
+
+📫 Reach out to me at almendrit.sadriu@outlook.com. Let's connect!
