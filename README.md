@@ -1,3 +1,6 @@
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=alm3ndr1t&langs_count=20&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats)
+
+
 👋 Hello, I'm Almendrit.
 
 🚀 I'm deeply passionate about software development.
